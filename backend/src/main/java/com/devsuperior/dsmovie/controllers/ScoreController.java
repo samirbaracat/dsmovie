@@ -1,7 +1,5 @@
 package com.devsuperior.dsmovie.controllers;
 
-import java.security.Provider.Service;
-
 import com.devsuperior.dsmovie.dto.MovieDTO;
 import com.devsuperior.dsmovie.dto.ScoreDTO;
 import com.devsuperior.dsmovie.services.ScoreService;
